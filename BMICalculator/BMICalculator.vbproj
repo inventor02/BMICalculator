@@ -47,7 +47,7 @@
     <OptionInfer>On</OptionInfer>
   </PropertyGroup>
   <PropertyGroup>
-    <ApplicationIcon>SquareLogoIcon.ico</ApplicationIcon>
+    <ApplicationIcon>squarelogoicon.ico</ApplicationIcon>
   </PropertyGroup>
   <PropertyGroup>
     <ApplicationManifest>My Project\app.manifest</ApplicationManifest>
@@ -126,8 +126,8 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <Content Include="SquareLogo.png" />
-    <Content Include="SquareLogoIcon.ico" />
+    <Content Include="squarelogo.png" />
+    <Content Include="squarelogoicon.ico" />
     <Content Include="Text.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
